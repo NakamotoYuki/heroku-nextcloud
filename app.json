@@ -1,6 +1,0 @@
-{
-  "name": "nextcloud to heroku",
-  "description": "deploy next cloud",
-  "repository": "https://github.com/NakamotoYuki/heroku-nextcloud",
-  "keywords": ["nextcloud", "php"]
-}
